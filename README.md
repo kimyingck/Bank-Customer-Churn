@@ -10,12 +10,11 @@ The **Bank Customer Churn** project analyzes customer data to identify patterns 
    - [Demographics and Regional Analysis](#demographics-and-regional-analysis)
    - [Behavioral and Account Analysis](#behavioral-and-account-analysis)
 3. [Recommendations](#recommendations)
-4. [Getting Started](#getting-started)
-5. [Project Features](#project-features)
+4. [Technical Project Information](#technical-project-information)
 
 ## Executive Summary
 
-The analysis highlights key drivers of customer churn in the banking sector. Customers aged **30–40** exhibit the highest churn rates, while those with longer tenures are less likely to churn. Customers with **low satisfaction scores**, **single product purchases**, or **low credit scores** are particularly at risk. Additionally, **Germany** has the highest churn rate of **32.44%**, followed by **Spain**. Diamond cardholders also show elevated churn rates. These insights can guide targeted interventions to reduce churn and improve customer retention.
+The analysis highlights key drivers of customer churn in the banking sector. Customers aged 30–40 exhibit the highest churn rates, while those with longer tenures are less likely to churn. Customers with low satisfaction scores**, single product purchases, or low credit scores are particularly at risk. Additionally, Germany has the highest churn rate of 32.44%, followed by Spain. Diamond cardholders also show elevated churn rates. These insights can guide targeted interventions to reduce churn and improve customer retention.
 
 ## Key Insights
 
@@ -50,8 +49,4 @@ The analysis highlights key drivers of customer churn in the banking sector. Cus
    Reassess benefits for silver and diamond memberships to meet customer expectations and enhance value.
 
 ## Technical Project Information
-
-### Data Source
-The original dataset is available [here](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn). It contains comprehensive data on bank customers, including demographic information, account details, and transactional behavior, which were used to analyze churn patterns. 
-
-This project highlights key drivers of churn and provides insights to aid strategic decision-making in customer retention.
+The original dataset is available [here](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn). It contains comprehensive data on bank customers, including demographic information, account details, and transactional behavior, which were used to analyze churn patterns. TThe data was cleaned and explored in Excel, before being visualized in Tableau.
